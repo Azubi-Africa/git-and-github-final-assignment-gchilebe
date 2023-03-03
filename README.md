@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -Matgage Calculator             |  -  application for computing loans           | https://github.com/gchilebe/Project_A.git       |
+| 2 |  - Sales and Operation Planning           |  -  application for managing sales           | https://github.com/gchilebe/Project_B.git       |
+| 3 |  -  QLite Database Querries Analysis          |  -  Querry Analysis on Sandbox Database           | https://github.com/gchilebe/Project_C.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
