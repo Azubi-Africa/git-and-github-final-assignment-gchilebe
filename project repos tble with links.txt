@@ -1,0 +1,5 @@
+|  | Project's Name | Description    | GitHub's Link  |
+|:--:|:--------------:|:--------------:|:--------------:|
+| 1 |  -Matgage Calculator             |  -  application for computing loans           | https://github.com/gchilebe/Project_A.git       |
+| 2 |  - Sales and Operation Planning           |  -  application for managing sales           | https://github.com/gchilebe/Project_B.git       |
+| 3 |  -  QLite Database Querries Analysis          |  -  Querry Analysis on Sandbox Database           | https://github.com/gchilebe/Project_C.git      |
